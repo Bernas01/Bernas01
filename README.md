@@ -43,11 +43,10 @@ Sou **Felipe Bernardes de Almeida**, tenho **20 anos**, formado em **Análise e 
 
 ### 🕹️ Gráfico de contribuições:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bernas01&theme=tokyonight" alt="streak-stats" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bernas01&theme=tokyonight)
 
 ---
 
-### 🌀
 
 <img src="https://media.tenor.com/3bTxZ6P4qK0AAAAC/naruto-running.gif" width="100" align="left"/>
 
