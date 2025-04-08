@@ -55,4 +55,4 @@ Sou **Felipe Bernardes de Almeida**, tenho **20 anos**, formado em **Análise e 
 
 ---
 
-<p align="center">✨ Obrigado! ✨</p>
+<p align="center"> Obrigado! </p>
