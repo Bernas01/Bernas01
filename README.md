@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Bem-vindo(a) ao meu GitHub!</h1>
-<h3 align="center">Desenvolvedor Web | Front-End (HTML, CSS, JavaScript) | Back-End (Python, SQL)</h3>
+<h3 align="center">Desenvolvedor Web | Front-End (HTML, CSS, JavaScript) | Back-End (Python, SQL) E Analista De Dados </h3>
 
 ---
 
