@@ -25,11 +25,21 @@ Sou **Felipe Bernardes de Almeida**, tenho **20 anos**, formado em **Análise e 
 
 ### 📜 Certificações
 
-- 📌 Gestão de Projetos e Fundamentos de Métodos Ágeis – Santander Open Academy (8h)  
-- 📌 Blockchain Essentials – FIAP (60h)  
-- 📌 Cybersecurity Basics – FIAP (40h)  
-- 📌 Banco de Dados Oracle – FIAP (60h)  
-- 📌 Introdução à Análise de Dados – Fundação Bradesco / Microsoft Power BI (5h)
+📌 Gestão de Projetos e Fundamentos de Métodos Ágeis – Santander Open Academy
+
+📌 Blockchain Essentials – FIAP
+
+📌 Cybersecurity Basics – FIAP
+
+📌 Banco de Dados Oracle – FIAP
+
+📌 Introdução à Análise de Dados – Fundação Bradesco / Microsoft Power BI
+
+📌 Engenharia de Prompt para ChatGPT – Vanderbilt University
+
+📌 Conceitos Básicos: Dados, dados em todos os lugares – Google
+
+📌 Introduction to User Experience Design – Georgia Institute of Technology
 
 ---
 
